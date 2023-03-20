@@ -252,4 +252,7 @@ footer#rodape p {
 	text-align: center;
 }
 
-
+video#mais-recente {
+	width: 350px;
+	height: 250px;
+}
